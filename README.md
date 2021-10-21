@@ -21,6 +21,7 @@ Calculadora com alternância de temas e operadores simples.
 git clone https://github.com/dougllasfm/calculator.git
 
 # Instalando dependencias
+$ cd calculator
 $ npm install
 
 # Executa o projeto
